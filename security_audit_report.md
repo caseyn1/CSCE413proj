@@ -115,7 +115,7 @@ The following vulnerabilities were identified, reproduced, and reviewed for seve
 ## 📄 References
 - [OWASP Top 10 2023](https://owasp.org/Top10/)
 - [Prisma Secure Queries](https://www.prisma.io/docs/concepts/components/prisma-client/raw-database-access)
-- Team 2 Final Report PDF (April 2025)
+- Team 2 Images pdf provided in email
 
 ---
 
